@@ -1,6 +1,6 @@
 cask "switcher" do
-  version "1.0.4"
-  sha256 "940be0766fc568ca16519624fe8dc981919aa7a5768a127f539554a50261b47e"
+  version "1.0.5"
+  sha256 "dc5e722abffaf7b3fbd969cf825e9cd8ec6121597b07c0b0c6835dfd63416498"
 
   url "https://github.com/fad1/Switcher/releases/download/v#{version}/Switcher.zip"
   name "Switcher"
